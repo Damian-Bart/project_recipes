@@ -1,0 +1,18 @@
+h1 {
+    color: white;
+    background-color: rgb(150, 135, 116);
+    text-align: center;
+    padding: 10px;
+    font-size: 48px;
+}
+ul {
+    background-color: rgb(206, 129, 129);
+    padding: 20px;
+}
+li {
+    padding: 5px;
+    border: white solid 2px;
+    margin: -2px;
+    text-align: center;
+    font-size: 20px;
+}
